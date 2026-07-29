@@ -12,3 +12,4 @@
 /Users/DS1/2026-I2DS/Aula-01/PrimeiroProjeto/obj/Debug/net10.0/PrimeiroProjeto.pdb
 /Users/DS1/2026-I2DS/Aula-01/PrimeiroProjeto/obj/Debug/net10.0/PrimeiroProjeto.genruntimeconfig.cache
 /Users/DS1/2026-I2DS/Aula-01/PrimeiroProjeto/obj/Debug/net10.0/ref/PrimeiroProjeto.dll
+/Users/DS1/2026-I2DS/Aula-01/PrimeiroProjeto/obj/Debug/net10.0/PrimeiroProjeto.sourcelink.json
