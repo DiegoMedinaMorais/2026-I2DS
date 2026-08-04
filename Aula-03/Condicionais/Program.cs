@@ -4,7 +4,7 @@
     {
         /* 
         
-        Se (condição) for verdadeiro
+        se (condição) for verdadeiro
             executar essa função
         senão
             executar essa função
