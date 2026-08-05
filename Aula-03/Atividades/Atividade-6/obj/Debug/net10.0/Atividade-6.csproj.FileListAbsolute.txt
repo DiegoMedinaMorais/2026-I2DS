@@ -1,0 +1,15 @@
+/Users/DS1/2026-I2DS/Aula-03/Atividades/Atividade-6/obj/Debug/net10.0/Atividade-6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/2026-I2DS/Aula-03/Atividades/Atividade-6/obj/Debug/net10.0/Atividade-6.AssemblyInfoInputs.cache
+/Users/DS1/2026-I2DS/Aula-03/Atividades/Atividade-6/obj/Debug/net10.0/Atividade-6.AssemblyInfo.cs
+/Users/DS1/2026-I2DS/Aula-03/Atividades/Atividade-6/obj/Debug/net10.0/Atividade-6.csproj.CoreCompileInputs.cache
+/Users/DS1/2026-I2DS/Aula-03/Atividades/Atividade-6/obj/Debug/net10.0/Atividade-6.sourcelink.json
+/Users/DS1/2026-I2DS/Aula-03/Atividades/Atividade-6/bin/Debug/net10.0/Atividade-6
+/Users/DS1/2026-I2DS/Aula-03/Atividades/Atividade-6/bin/Debug/net10.0/Atividade-6.deps.json
+/Users/DS1/2026-I2DS/Aula-03/Atividades/Atividade-6/bin/Debug/net10.0/Atividade-6.runtimeconfig.json
+/Users/DS1/2026-I2DS/Aula-03/Atividades/Atividade-6/bin/Debug/net10.0/Atividade-6.dll
+/Users/DS1/2026-I2DS/Aula-03/Atividades/Atividade-6/bin/Debug/net10.0/Atividade-6.pdb
+/Users/DS1/2026-I2DS/Aula-03/Atividades/Atividade-6/obj/Debug/net10.0/Atividade-6.dll
+/Users/DS1/2026-I2DS/Aula-03/Atividades/Atividade-6/obj/Debug/net10.0/refint/Atividade-6.dll
+/Users/DS1/2026-I2DS/Aula-03/Atividades/Atividade-6/obj/Debug/net10.0/Atividade-6.pdb
+/Users/DS1/2026-I2DS/Aula-03/Atividades/Atividade-6/obj/Debug/net10.0/Atividade-6.genruntimeconfig.cache
+/Users/DS1/2026-I2DS/Aula-03/Atividades/Atividade-6/obj/Debug/net10.0/ref/Atividade-6.dll

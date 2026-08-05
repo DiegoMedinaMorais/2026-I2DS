@@ -7,6 +7,7 @@
         int numero = int.Parse(Console.ReadLine());
         Console.WriteLine("");
         int vezes = 10;
+        Contar(numero, vezes);
 
     }
     public static void Contar(int numero, int vezes)
@@ -16,7 +17,12 @@
             Console.WriteLine(numero + " x " + i + " = " + numero * i);
         }
 
+        Console.Write("Deseja continuar? digite 1 para sim, 2 para não: ");
+        int escolha = int.Parse(Console.ReadLine());
+
+        if (escolha == 1)
+        {
+            Contar(numero, vezes+10);
+        } 
     }
-
-
 }
