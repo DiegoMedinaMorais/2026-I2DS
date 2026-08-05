@@ -15,107 +15,117 @@
         int qntd5 = 0;
         int qntd2 = 0;
         int qntd1 = 0;
-        while (nota != valor)
+        while (valor2 != valor)
         {
-            switch (nota)
+            if (nota == 100)
             {
-                case 100:
-                    valor2 += nota;
-                    if (valor2 > valor)
-                    {
-                        valor2 -= nota;
-                        nota = 50;
-                    }
-                    else
-                    {
-                        qntd100++;
-                    }
-                case 50:
-                    valor2 += nota;
-                    if (valor2 > valor)
-                    {
-                        valor2 -= nota;
-                        nota = 20;
-                    }
-                    else
-                    {
-                        qntd50++;
-                    }
-                case 20:
-                    valor2 += nota;
-                    if (valor2 > valor)
-                    {
-                        valor2 -= nota;
-                        nota = 10;
-                    }
-                    else
-                    {
-                        qntd20++;
-                    }
-                case 10:
-                    valor2 += nota;
-                    if (valor2 > valor)
-                    {
-                        valor2 -= nota;
-                        nota = 5;
-                    }
-                    else
-                    {
-                        qntd10++;
-                    }
-                case 5:
-                    valor2 += nota;
-                    if (valor2 > valor)
-                    {
-                        valor2 -= nota;
-                        nota = 2;
-                    }
-                    else
-                    {
-                        qntd5++;
-                    }
-                case 2:
-                    valor2 += nota;
-                    if (valor2 > valor)
-                    {
-                        valor2 -= nota;
-                        nota = 1;
-                    }
-                    else
-                    {
-                        qntd2++;
-                    }
-                case 1:
-                    valor2 += nota;
-                        qntd1++;
-                
+                valor2 += nota;
+                if (valor2 > valor)
+                {
+                    valor2 -= nota;
+                    nota = 50;
+                }
+                else
+                {
+                    qntd100++;
+                }
+            }
+            if (nota == 50)
+            {
+                valor2 += nota;
+                if (valor2 > valor)
+                {
+                    valor2 -= nota;
+                    nota = 20;
+                }
+                else
+                {
+                    qntd50++;
+                }
+            }
+            if (nota == 20)
+            {
+                valor2 += nota;
+                if (valor2 > valor)
+                {
+                    valor2 -= nota;
+                    nota = 10;
+                }
+                else
+                {
+                    qntd20++;
+                }
+            }
+            if (nota == 10)
+            {
+                valor2 += nota;
+                if (valor2 > valor)
+                {
+                    valor2 -= nota;
+                    nota = 5;
+                }
+                else
+                {
+                    qntd10++;
+                }
+            }
+            if (nota == 5)
+            {
+                valor2 += nota;
+                if (valor2 > valor)
+                {
+                    valor2 -= nota;
+                    nota = 2;
+                }
+                else
+                {
+                    qntd5++;
+                }
+            }
+            if (nota == 2)
+            {
+                valor2 += nota;
+                if (valor2 > valor)
+                {
+                    valor2 -= nota;
+                    nota = 1;
+                }
+                else
+                {
+                    qntd2++;
+                }
+            }
+            if (nota == 1)
+            {
+                valor2 += nota;
+                qntd1++;
             }
         }
-        if (qntd100 != 0);
+        if (qntd100 != 0)
         {
             Console.WriteLine(qntd100 + " notas de 100");
         }
-        if (qntd50 != 0);
+        if (qntd50 != 0)
         {
             Console.WriteLine(qntd50 + " notas de 50");
         }
-        if (qntd20 != 0);
+        if (qntd20 != 0)
         {
             Console.WriteLine(qntd20 + " notas de 20");
         }
-        if (qntd10 != 0);
+        if (qntd10 != 0)
         {
             Console.WriteLine(qntd10 + " notas de 10");
         }
-        if (qntd5 != 0);
+        if (qntd5 != 0)
         {
-            Console.WriteLine(qntd5 != 0 + " notas de 5");
+            Console.WriteLine(qntd5 + " notas de 5");
         }
-        if (qntd2 != 0);
+        if (qntd2 != 0)
         {
             Console.WriteLine(qntd2 + " notas de 2");
         }
-        if (qntd1 != 0);
+        if (qntd1 != 0)
         {
             Console.WriteLine(qntd1 + " notas de 1");
         }
