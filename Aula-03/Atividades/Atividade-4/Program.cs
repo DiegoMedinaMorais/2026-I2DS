@@ -15,6 +15,7 @@
         int qntd5 = 0;
         int qntd2 = 0;
         int qntd1 = 0;
+        
         while (valor2 != valor)
         {
             if (nota == 100)
