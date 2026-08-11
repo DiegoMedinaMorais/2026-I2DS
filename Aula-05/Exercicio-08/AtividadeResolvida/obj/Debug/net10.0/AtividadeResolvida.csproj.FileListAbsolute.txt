@@ -1,0 +1,5 @@
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/AtividadeResolvida/obj/Debug/net10.0/AtividadeResolvida.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/AtividadeResolvida/obj/Debug/net10.0/AtividadeResolvida.AssemblyInfoInputs.cache
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/AtividadeResolvida/obj/Debug/net10.0/AtividadeResolvida.AssemblyInfo.cs
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/AtividadeResolvida/obj/Debug/net10.0/AtividadeResolvida.csproj.CoreCompileInputs.cache
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/AtividadeResolvida/obj/Debug/net10.0/AtividadeResolvida.sourcelink.json

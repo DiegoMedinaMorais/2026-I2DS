@@ -1,0 +1,15 @@
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-04/Carro/obj/Debug/net10.0/Carro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-04/Carro/obj/Debug/net10.0/Carro.AssemblyInfoInputs.cache
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-04/Carro/obj/Debug/net10.0/Carro.AssemblyInfo.cs
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-04/Carro/obj/Debug/net10.0/Carro.csproj.CoreCompileInputs.cache
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-04/Carro/obj/Debug/net10.0/Carro.sourcelink.json
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-04/Carro/bin/Debug/net10.0/Carro
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-04/Carro/bin/Debug/net10.0/Carro.deps.json
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-04/Carro/bin/Debug/net10.0/Carro.runtimeconfig.json
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-04/Carro/bin/Debug/net10.0/Carro.dll
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-04/Carro/bin/Debug/net10.0/Carro.pdb
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-04/Carro/obj/Debug/net10.0/Carro.dll
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-04/Carro/obj/Debug/net10.0/refint/Carro.dll
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-04/Carro/obj/Debug/net10.0/Carro.pdb
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-04/Carro/obj/Debug/net10.0/Carro.genruntimeconfig.cache
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-04/Carro/obj/Debug/net10.0/ref/Carro.dll

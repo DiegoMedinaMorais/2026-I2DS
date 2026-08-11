@@ -1,0 +1,15 @@
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/MMORPG/obj/Debug/net10.0/MMORPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/MMORPG/obj/Debug/net10.0/MMORPG.AssemblyInfoInputs.cache
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/MMORPG/obj/Debug/net10.0/MMORPG.AssemblyInfo.cs
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/MMORPG/obj/Debug/net10.0/MMORPG.csproj.CoreCompileInputs.cache
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/MMORPG/obj/Debug/net10.0/MMORPG.sourcelink.json
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/MMORPG/bin/Debug/net10.0/MMORPG
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/MMORPG/bin/Debug/net10.0/MMORPG.deps.json
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/MMORPG/bin/Debug/net10.0/MMORPG.runtimeconfig.json
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/MMORPG/bin/Debug/net10.0/MMORPG.dll
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/MMORPG/bin/Debug/net10.0/MMORPG.pdb
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/MMORPG/obj/Debug/net10.0/MMORPG.dll
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/MMORPG/obj/Debug/net10.0/refint/MMORPG.dll
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/MMORPG/obj/Debug/net10.0/MMORPG.pdb
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/MMORPG/obj/Debug/net10.0/MMORPG.genruntimeconfig.cache
+/Users/DS1/2026-I2DS/Aula-05/Exercicio-08/MMORPG/obj/Debug/net10.0/ref/MMORPG.dll
